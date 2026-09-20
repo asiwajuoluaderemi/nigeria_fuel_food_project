@@ -23,6 +23,7 @@ This project examined the relationship between fuel prices and food inflation in
 Data downloaded as monthly "Tables" (.xlsx) files, covering November 2023 – May 2026.
 
 ## Project Structure
+```text
 nigeria_fuel_food_project/
 ├── README.md
 ├── data/
@@ -41,6 +42,7 @@ nigeria_fuel_food_project/
 ├── 03_explore_diesel.ipynb
 ├── 04_validate_data.ipynb
 └── 05_analysis.ipynb
+```
 
 ## How to Run It
 
